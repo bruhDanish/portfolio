@@ -262,6 +262,18 @@ span{
         margin: 20px 8px;
     }
 
+    #clientName{
+        width: 200px;
+    }
+
+    #clientEmail{
+        width: 200px;
+    }
+
+    #clientPhone{
+        width: 200px;
+    }
+    
     .blogContainer{
         margin: 40px 30px;
     }
